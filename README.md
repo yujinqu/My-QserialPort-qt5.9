@@ -5,3 +5,5 @@ https://space.bilibili.com/397673409
 欢迎关注
 # 学习视频
 https://www.bilibili.com/video/BV1EE4117728?from=search&seid=11979869180274805237
+# 文件说明
+仓库包含打包好的安装程序SerialSTEUP.exe和源码。
